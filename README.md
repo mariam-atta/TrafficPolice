@@ -14,7 +14,7 @@
 
 TrafficPolice is a complete machine learning pipeline for network intrusion detection. It classifies network traffic as **Normal** or **Attack** using the UNSW-NB15 dataset. The system compares four models, tunes the best one using Optuna HPO, and deploys the result as a web application on AWS.
 
-Built by **Mariam Atta** and **Huzaifa Amir** — ITU, Lahore.
+Built by **Mariam Atta** — ITU, Lahore.
 
 ---
 
@@ -174,11 +174,10 @@ Local Project → Docker Build → Push to AWS ECR → Deploy on Elastic Beansta
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
 | Name | Student ID |
 |---|---|
 | Mariam Atta | BSSE23039 |
-| Huzaifa Amir | BSSE23077 |
 
 Information Technology University (ITU), Lahore, Pakistan
