@@ -1,0 +1,8 @@
+Optuna HPO Results
+==================
+Best Validation F1: 0.9776962011235331
+Best Parameters: {'n_estimators': 97, 'max_depth': 27, 'min_samples_split': 9, 'min_samples_leaf': 1}
+
+Final Test Results:
+                         model  accuracy  precision   recall  f1_score                                                                          best_params
+Random Forest + SMOTE + Optuna  0.900645   0.989962 0.862771  0.922001 {'n_estimators': 97, 'max_depth': 27, 'min_samples_split': 9, 'min_samples_leaf': 1}
