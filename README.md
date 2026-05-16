@@ -148,7 +148,21 @@ Local Project → Docker Build → Push to AWS ECR → Deploy on Elastic Beansta
 ```
 
 ---
+## 🖥️ Dashboard UI
 
+**Landing Screen**
+![Landing](screenshots/landing_screen.png)
+
+**Threat Analysis Console**
+![Console](screenshots/console.png)
+
+**Stats Overview**
+![Stats](screenshots/stats.png)
+
+**Prediction Results Table**
+![Results](screenshots/results_table.png)
+
+---
 ## 📈 Results
 
 **Confusion Matrix — Final Tuned Model**
